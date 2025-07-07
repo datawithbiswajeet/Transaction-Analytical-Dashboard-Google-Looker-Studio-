@@ -1,4 +1,4 @@
-# 💳 UPI Transaction Analytics Dashboard — Google Looker Studio
+# 💳Transaction Analytics Dashboard — Google Looker Studio
 
 <p align="center">
   <img src="https://github.com/datawithbiswajeet/Transaction-Analytical-Dashboard-Google-Looker-Studio-/blob/main/1.png" width="45%" />
@@ -26,10 +26,16 @@ This project empowers stakeholders with data-driven insights into **user behavio
 
 ## 🧰 Tools Used
 
-| Tool             | Purpose                              |
-|------------------|---------------------------------------|
-| **Google Sheets** | Data storage & preprocessing          |
+| Tool                   | Purpose                              |
+|------------------------|---------------------------------------|
+| **Google Sheets**      | Data storage & preprocessing          |
 | **Google Looker Studio** | Interactive dashboards & reporting   |
+
+---
+
+## 🔗 Live Dashboard Link
+
+🎯 [Click here to view the live Looker Studio Dashboard](https://lookerstudio.google.com/reporting/a473eb61-7f78-491c-8f67-9e8771d1d277)
 
 ---
 
@@ -92,4 +98,3 @@ It can be effectively used by **FinTech analysts, product managers, banking inst
 - **LinkedIn**: [Biswajeet Prasad](https://www.linkedin.com/in/datawithbiswajeet/)
 
 Let’s connect and collaborate on more data-driven projects! 🚀
-
